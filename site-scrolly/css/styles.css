@@ -60,6 +60,25 @@ footer {
   text-align: center;
 }
 
+.image-stack {
+  position: relative;
+}
+
+.image-stack img {
+  position: absolute;
+}
+
+.image-stack img:nth-child(2) {
+  top: 20px; /* Adjust this value to set the vertical position of the second image */
+  left: 20px; /* Adjust this value to set the horizontal position of the second image */
+  z-index: 1; /* Ensure this image is above the first image */
+}
+
+.image-stack img:nth-child(3) {
+  top: 40px; /* Adjust this value to set the vertical position of the third image */
+  left: 40px; /* Adjust this value to set the horizontal position of the third image */
+  z-index: 2; /* Ensure this image is above the second image */
+}
 /*---------------------------------------------------------- 
   # Chapitre 1
 ----------------------------------------------------------*/
@@ -75,7 +94,12 @@ section.chapitre1 {
   # Chapitre 2
 ----------------------------------------------------------*/
 section.chapitre2 {
-  background-image: url(../images/chap2/scene-2-fond.png);
+  background: rgb(3, 146, 179);
+  background: linear-gradient(
+    0deg,
+    rgba(3, 146, 179, 1) 23%,
+    rgba(106, 196, 209, 1) 100%
+  );
 }
 /*---------------------------------------------------------- 
   # Chapitre 3
