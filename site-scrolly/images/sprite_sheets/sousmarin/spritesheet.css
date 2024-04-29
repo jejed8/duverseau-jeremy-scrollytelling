@@ -1,0 +1,437 @@
+.sprite-sub {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sub-sousmarin_idle_00000 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -1px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00001 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -1083px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00002 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -2165px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00003 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -3247px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00004 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -4329px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00005 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -5411px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00006 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -6493px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00007 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -7575px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00008 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -8657px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00009 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -9739px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00010 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -10821px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00011 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -11903px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00012 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -12985px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00013 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -14067px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00014 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -15149px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00015 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -16231px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00016 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -17313px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00017 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -18395px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00018 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -19477px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00019 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -20559px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00020 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -21641px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00021 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -22723px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00022 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -23805px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00023 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -24887px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00024 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -25969px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00025 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -27051px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00026 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -28133px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00027 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -29215px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00028 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -30297px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00029 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -31379px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00030 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -32461px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00031 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -33543px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00032 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -34625px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00033 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -35707px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00034 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -36789px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00035 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -37871px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00036 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -38953px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00037 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -40035px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00038 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -41117px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00039 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -42199px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00040 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -43281px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00041 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -44363px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00042 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -45445px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00043 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -46527px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00044 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -47609px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00045 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -48691px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00046 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -49773px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00047 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -50855px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00048 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -51937px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00049 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -53019px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00050 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -54101px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00051 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -55183px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00052 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -56265px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00053 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -57347px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00054 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -58429px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00055 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -59511px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00056 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -60593px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00057 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -61675px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00058 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -62757px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00059 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -63839px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00060 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -64921px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00061 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -66003px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00062 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -67085px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00063 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -68167px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00064 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -69249px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00065 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -70331px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00066 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -71413px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00067 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -72495px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00068 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -73577px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00069 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -74659px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00070 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -75741px -1px;
+}
+
+.sprite-sub-sousmarin_idle_00071 {
+    width: 1080px;
+    height: 1080px;
+    background-position: -76823px -1px;
+}
