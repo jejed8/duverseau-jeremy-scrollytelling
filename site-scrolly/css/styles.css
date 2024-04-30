@@ -18,6 +18,7 @@ body {
   border: none;
   margin: 0;
   height: 600vh;
+  width: 100vw;
 }
 
 header {
@@ -128,10 +129,11 @@ section.chapitre1 {
   position: relative;
 }
 
-.algues-chap1-2 {
+.algues-premier-plan {
   bottom: 0;
-  left: 0;
+  left: 100px;
   width: 350%;
+  position: relative;
 
 }
 /*---------------------------------------------------------- 

@@ -28,21 +28,21 @@ document.addEventListener("DOMContentLoaded", (event) => {
       markers: false,
       trigger: ".algues-chap1",
       scrub: 5,
-      start: '10% 75%',
-      end: '80% 10%',
+      start: "10% 75%",
+      end: "80% 10%",
     },
     x: "-100%",
   });
 
-  gsap.to(".algues-chap1-2", {
+  gsap.to(".algues-premier-plan", {
     scrollTrigger: {
-      markers: true,
-      trigger: ".algues-chap1-2",
+      markers: false,
+      trigger: ".algues-premier-plan",
       scrub: 5,
-      start: '10% 75%',
-      end: '80% 10%',s
+      start: "10% 75%",
+      end: "80% 10%",
     },
-    x: "-100%",
+    x: "-115%",
   });
 });
 
