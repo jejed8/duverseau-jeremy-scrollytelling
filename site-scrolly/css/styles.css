@@ -96,6 +96,12 @@ footer {
   top: 0;
   left: 0;
 }
+
+.sol {
+  bottom: 0;
+  left: 0;
+}
+
 /*---------------------------------------------------------- 
   # Chapitre 1
 ----------------------------------------------------------*/
@@ -134,30 +140,43 @@ section.chapitre1 {
   left: 100px;
   width: 350%;
   position: relative;
-
 }
 /*---------------------------------------------------------- 
   # Chapitre 2
 ----------------------------------------------------------*/
 section.chapitre2 {
-  background: rgb(3, 146, 179);
+  background: rgb(97, 168, 188);
   background: linear-gradient(
     0deg,
-    rgba(3, 146, 179, 1) 23%,
+    rgba(97, 168, 188, 1) 0%,
     rgba(106, 196, 209, 1) 100%
   );
 }
+
+.epave {
+  width: 95vw;
+  bottom: 15px;
+  right: -60vw;
+}
+
 /*---------------------------------------------------------- 
   # Chapitre 3
 ----------------------------------------------------------*/
 section.chapitre3 {
-  background-image: url(../images/chap3/fond-chap3.png);
+  background-color: rgba(3, 146, 179, 1);
 }
 /*---------------------------------------------------------- 
   # Chapitre 4
 ----------------------------------------------------------*/
 section.chapitre4 {
-  background-image: url(../images/chap4/fond-chap4.png);
+  section.chapitre2 {
+    background: rgb(3, 146, 179);
+    background: linear-gradient(
+      0deg,
+      rgba(3, 146, 179, 1) 23%,
+      rgba(106, 196, 209, 1) 100%
+    );
+  }
 }
 
 /*---------------------------------------------------------- 
