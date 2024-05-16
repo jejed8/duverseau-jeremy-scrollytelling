@@ -7,9 +7,9 @@ let speed5 = 500;
 document.addEventListener("DOMContentLoaded", (event) => {
   gsap.registerPlugin(
     ScrollTrigger,
-    MotionPathPlugin,
-    MorphSVGPlugin,
-    DrawSVGPlugin
+    MotionPathPlugin
+    /*MorphSVGPlugin,
+    DrawSVGPlugin*/
   );
   // gsap code here!
   // ---------- header ----------
@@ -190,12 +190,22 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .to(".sousmarin-chap5", { y: 5 * speed2, duration: 150 }, 0)
 
     // draw svg
+<<<<<<< Updated upstream
     /*.fromTo(
       "#drawSVG",
       { drawSVG: "0% 0%" },
       { drawSVG: "0% 100%", duration: 150, ease: "power1.inOut" }
     )*/
 
+=======
+    /*
+    .fromTo(
+      "#drawSVG",
+      { drawSVG: "0% 0%" },
+      { drawSVG: "0% 100%", duration: 150, ease: "power1.inOut" }
+    )
+    */
+>>>>>>> Stashed changes
     .to("#mur1gauche", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur1droit", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur2gauche", { y: -40 * speed5, duration: 165 }, 1)
@@ -219,8 +229,14 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .to(".sousmarin-ch6", { x: 1 * speed, duration: 7 }, 15)
 
     //morph svg
+<<<<<<< Updated upstream
     /*.to("#trou", { MorphSVG: "#monstre", duration: 15 }, 45)*/
 
+=======
+    /*
+    .to("#trou", { MorphSVG: "#monstre", duration: 15 }, 45)
+    */
+>>>>>>> Stashed changes
     .to(".bg-chap6", { opacity: 0, duration: 150, ease: "power1.inOut" }, 300)
     .to(
       ".sousmarin-ch6",
