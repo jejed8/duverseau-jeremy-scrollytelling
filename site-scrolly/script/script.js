@@ -188,17 +188,19 @@ document.addEventListener("DOMContentLoaded", (event) => {
       },
     })
     .to(".sousmarin-chap5", { y: 5 * speed2, duration: 150 }, 0)
-    .fromTo(
+
+    // draw svg
+    /*.fromTo(
       "#drawSVG",
       { drawSVG: "0% 0%" },
       { drawSVG: "0% 100%", duration: 150, ease: "power1.inOut" }
-    )
+    )*/
+    
     .to("#mur1gauche", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur1droit", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur2gauche", { y: -40 * speed5, duration: 165 }, 1)
     .to("#mur2droit", { y: -40 * speed5, duration: 165 }, 1);
-  //.to("#mur2gauche", { scaleX: 25, scaleY: 10, duration: 50 }, 170)
-  /*.to("#mur2droit", { scaleX: 25, scaleY: 10, duration: 50 }, 170)*/
+
   //---------- section 6 ----------
   gsap
     .timeline({
@@ -215,7 +217,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .to(".sousmarin-ch6", { y: "75vw", duration: 25 })
     .to(".sousmarin-ch6", { rotation: -90, duration: 10 }, 15)
     .to(".sousmarin-ch6", { x: 1 * speed, duration: 7 }, 15)
-    .to("#trou", { MorphSVG: "#monstre", duration: 15 }, 45)
+
+    //morph svg
+    /*.to("#trou", { MorphSVG: "#monstre", duration: 15 }, 45)*/
+
     .to(".bg-chap6", { opacity: 0, duration: 150, ease: "power1.inOut" }, 300)
     .to(
       ".sousmarin-ch6",
