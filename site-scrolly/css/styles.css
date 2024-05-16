@@ -95,7 +95,6 @@ footer {
   width: 200%;
 }
 
-
 /*---------------------------------------------------------- 
   # Header
 ----------------------------------------------------------*/
@@ -336,7 +335,6 @@ section.chapitre4 {
   left: 0;
   width: 22vw;
   height: 100vh;
-
 }
 .algues-3-chap-4 {
   bottom: 0;
@@ -514,18 +512,22 @@ body.is-scrolling .sprite {
 }
 
 .sprite.sprite-algues {
-  width: 1196px; 
+  width: 1196px;
   height: 2918px;
-  background-image: url('../images/sprite_sheets/algue-1/spritesheet-algue.png');
-  animation: playFrames 1s steps(24) infinite; 
+  background-image: url("../images/sprite_sheets/algue-1/spritesheet-algue.png");
+  animation: playFrames 1s steps(24) infinite;
   background-size: auto 2918px;
   animation-play-state: paused;
   position: relative;
 }
 
 @keyframes algue {
-  from { background-position: 0 0; }
-  to { background-position: -28952px 0; }
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -28952px 0;
+  }
 }
 
 .container-sprite-algues {

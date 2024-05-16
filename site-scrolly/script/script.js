@@ -190,11 +190,11 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .to(".sousmarin-chap5", { y: 5 * speed2, duration: 150 }, 0)
 
     // draw svg
-    /*.fromTo(
+    .fromTo(
       "#drawSVG",
       { drawSVG: "0% 0%" },
       { drawSVG: "0% 100%", duration: 150, ease: "power1.inOut" }
-    )*/
+    )
 
     .to("#mur1gauche", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur1droit", { y: -50 * speed5, duration: 140 }, 1)
@@ -219,7 +219,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     .to(".sousmarin-ch6", { x: 1 * speed, duration: 7 }, 15)
 
     //morph svg
-    /*.to("#trou", { MorphSVG: "#monstre", duration: 15 }, 45)*/
+    .to("#trou", { MorphSVG: "#monstre", duration: 15 }, 45)
 
     .to(".bg-chap6", { opacity: 0, duration: 150, ease: "power1.inOut" }, 300)
     .to(
