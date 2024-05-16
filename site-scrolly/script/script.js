@@ -175,7 +175,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   gsap
     .timeline({
       scrollTrigger: {
-        markers: true,
+        markers: false,
         scrub: true,
         pin: true,
         pinSpacing: true,
@@ -195,7 +195,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
       { drawSVG: "0% 0%" },
       { drawSVG: "0% 100%", duration: 150, ease: "power1.inOut" }
     )*/
-    
+
     .to("#mur1gauche", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur1droit", { y: -50 * speed5, duration: 140 }, 1)
     .to("#mur2gauche", { y: -40 * speed5, duration: 165 }, 1)
